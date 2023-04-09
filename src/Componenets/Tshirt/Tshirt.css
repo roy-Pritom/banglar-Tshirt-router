@@ -1,0 +1,21 @@
+.tshirt{
+    border: 2px solid blue;
+    border-radius: 20px;
+    width:200px;
+    height: 330px;
+    padding: 20px;
+    position: relative;
+}
+.tshirt img{
+    width: 160px;
+    height: 140px;
+    border-radius: 8px;
+}
+.buy-btn{
+    position: absolute;
+    bottom: 15px;
+    background-color:blue;
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
